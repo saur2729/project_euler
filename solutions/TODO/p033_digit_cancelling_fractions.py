@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 33: digit cancelling fractions
+Project Euler Problem 33 : digit cancelling fractions
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

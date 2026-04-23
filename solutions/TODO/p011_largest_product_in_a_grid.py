@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 11: largest product in a grid
+Project Euler Problem 11 : largest product in a grid
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

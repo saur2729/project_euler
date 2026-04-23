@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 28: number spiral diagonals
+Project Euler Problem 28 : number spiral diagonals
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

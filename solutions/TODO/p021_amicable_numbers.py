@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 21: amicable numbers
+Project Euler Problem 21 : amicable numbers
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

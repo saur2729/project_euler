@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 19: counting sundays
+Project Euler Problem 19 : counting sundays
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

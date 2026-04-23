@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 20: factorial digit sum
+Project Euler Problem 20 : factorial digit sum
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

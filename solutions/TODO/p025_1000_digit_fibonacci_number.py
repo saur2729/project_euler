@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 25: 1000 digit fibonacci number
+Project Euler Problem 25 : 1000 digit fibonacci number
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

@@ -33,3 +33,11 @@ def is_palindrome(val):
     """Checks if a number or string is a palindrome."""
     s = str(val)
     return s == s[::-1]
+
+
+def find_factors_simple(n):
+    factors = []
+    for i in range(1, n + 1):
+        if n % i == 0:
+            factors.append(i)
+    return factors

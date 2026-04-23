@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 38: pandigital multiples
+Project Euler Problem 38 : pandigital multiples
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->

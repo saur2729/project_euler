@@ -1,12 +1,16 @@
+
 """
-Project Euler Problem 43: sub string divisibility
+Project Euler Problem 43 : sub string divisibility
+
 """
 
-import sys
-from utils.math_helper import *
+# from utils.math_helper import *
+
 
 def solve():
-    pass
+
+    return
+
 
 if __name__ == "__main__":
-    solve()
+    print(solve())  # returns -->
