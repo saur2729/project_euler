@@ -36,8 +36,20 @@ def is_palindrome(val):
 
 
 def find_factors_simple(n):
-    factors = []
-    for i in range(1, n + 1):
+    if n <= 0:
+        return []
+    factors = set()
+    for i in range(1, int(math.sqrt(n)) + 1):
         if n % i == 0:
-            factors.append(i)
-    return factors
+            factors.add(i)
+            factors.add(n // i)
+    return sorted(list(factors))
+
+
+def digit_sum(n):
+    sum_of_digit = 0
+    while n > 0:
+        sum_of_digit += n % 10
+        n = n // 10
+
+    return sum_of_digit
