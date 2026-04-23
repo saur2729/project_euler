@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project_euler"
+version = "0.1.0"
+description = "Solutions to Project Euler problems"
+authors = [{name = "Saurabh Singh"}]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["utils*"]
